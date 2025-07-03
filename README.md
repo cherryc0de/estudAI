@@ -1,28 +1,26 @@
 <h1 align="center">🌸 EstudAI-chan</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/V9e9S6I.gif" width="160" alt="EstudAI mascote"/><br><br>
-  Uma kouhai fofa que responde suas dúvidas com amor, carinho e inteligência! 🥺📚<br>
+  <img src="https://i.imgur.com/he3uUsy.gif" width="160" alt="EstudAI mascote"/><br><br>
+  Uma kouhai fofa que responde suas dúvidas com amor e carinho <br>
   <i>Powered by Flask + Groq API</i>
 </p>
 
 ---
 
-## 💖 Sobre
+## 💖 Sobre ela
 
-**EstudAI-chan** é um chatbot educacional com alma de anime!  
-Ela responde suas perguntas com explicações claras, fofinhas e adaptadas ao seu estilo.  
-Ideal pra estudar com uma companhia kawaii~! 🐾🌸
+**EstudAI-chan**, é um chatbot educacional com alma de anime!  
 
-> “Senpai... você quer que eu te ensine álgebra de novo...? Eu... eu vou dar o meu melhor, tá?” ~ EstudAI-chan, blushes intensifies 💦
+> “Senpai... você quer que eu te ensine álgebra de novo...? Eu... eu vou dar o meu melhor, tá?” ~ EstudAI-chan, blushies intensifies
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-ff5b5b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB...k=) ← (colocar logo personalizado depois)
+![Groq](https://img.shields.io/badge/Groq-ff5b5b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB...k=)
 ![Kawaii A.I.](https://img.shields.io/badge/Kawaii-AI-ffb6c1?style=for-the-badge)
 
 ---
@@ -30,8 +28,8 @@ Ideal pra estudar com uma companhia kawaii~! 🐾🌸
 ## 🧠 Como ela funciona?
 
 1. O usuário envia uma pergunta
-2. Escolhe o estilo da resposta (ex: kouhai, gamer, formal...)
-3. A EstudAI-chan consulta a API Groq e responde com um toque anime~ 💬🎀
+2. Escolhe o estilo da resposta (ex: kouhai, gamer, kawaii...)
+3. A EstudAI-chan consulta a API Groq e responde com um toque único 💬🎀
 
 ---
 
@@ -42,18 +40,18 @@ Clone o repositório:
 ```bash
 git clone https://github.com/cherryc0de/estudAI.git
 cd estudAI
-Crie seu ambiente virtual:
+Crie seu ambiente virtual
 
 bash
 Copy code
 python -m venv venv
 venv\Scripts\activate  # no Windows
-Instale as dependências:
+Instale as dependências
 
 bash
 Copy code
 pip install -r requirements.txt
-Configure sua chave Groq em um arquivo .env:
+Configure sua chave Groq num arquivo .env
 
 env
 Copy code
